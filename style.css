@@ -119,8 +119,8 @@ body{
 
 @media screen and (max-width: 800px) {
     #pieces {
-        width: 350px;
-        height: 350px;
+        width: 349px;
+        height: 349px;
         border: 2px solid purple;
         margin: 0 auto;
         display: flex;
@@ -134,8 +134,8 @@ body{
     }
 
     #board {
-        width: 350px;
-        height: 350px;
+        width: 349px;
+        height: 349px;
         border: 2px solid purple;
         margin: 0 auto;
         display: flex;
@@ -152,8 +152,8 @@ body{
 
 @media screen and (max-width: 400px) {
     #pieces {
-        width: 250px;
-        height: 250px;
+        width: 249px;
+        height: 249px;
         border: 2px solid purple;
         margin: 0 auto;
         display: flex;
@@ -167,8 +167,8 @@ body{
     }
 
     #board {
-        width: 250px;
-        height: 250px;
+        width: 249px;
+        height: 249px;
         border: 2px solid purple;
         margin: 0 auto;
         display: flex;
