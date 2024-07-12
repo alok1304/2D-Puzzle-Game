@@ -128,8 +128,8 @@ body{
     }
 
     #pieces img {
-        width: 85px;
-        height: 85px;
+        width: 85.9px;
+        height: 85.9px;
         border: 0.7px solid yellow;
     }
 
@@ -144,8 +144,8 @@ body{
     }
 
     #board img {
-        width: 85px;
-        height: 85px;
+        width: 85.9px;
+        height: 85.9px;
         border: 0.7px solid yellow;
     }
 }
